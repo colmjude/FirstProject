@@ -1,3 +1,4 @@
+|Author|Colm Britton|
 //{{{
 
 if(!version.extensions.twitter) { //# ensure that the plugin is only installed once
